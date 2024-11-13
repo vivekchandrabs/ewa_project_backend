@@ -1,0 +1,503 @@
+[
+    {
+      "id": 1,
+      "name": "Modern Lounge Chair",
+      "price": 450,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/modern_lounge_chair.jpg",
+      "description": "A sleek and stylish lounge chair with a wooden frame. Padded armrests and a reclining feature offer superior comfort. Perfect for modern living rooms.",
+      "discount": 22,
+      "has_rebate": true,
+      "chair_type": "Lounge Chair"
+    },
+    {
+      "id": 2,
+      "name": "Ergonomic Office Chair",
+      "price": 380,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/ergonomic_office_chair.jpg",
+      "description": "Adjustable height and lumbar support for all-day comfort. Breathable mesh back and soft cushioned seat. Ideal for long work hours.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Office Chair"
+    },
+    {
+      "id": 3,
+      "name": "Wooden Rocking Chair",
+      "price": 240,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/wooden_rocking_chair.jpg",
+      "description": "Classic wooden rocking chair with smooth gliding motion. Handcrafted from solid oak for durability and strength. Perfect for relaxing in your living space.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Rocking Chair"
+    },
+    {
+      "id": 4,
+      "name": "Leather Recliner Chair",
+      "price": 480,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/leather_recliner_chair.jpg",
+      "description": "Luxurious leather upholstery with plush cushioning. Features a reclining function with adjustable headrest. Adds elegance to any room.",
+      "discount": 25,
+      "has_rebate": true,
+      "chair_type": "Recliner Chair"
+    },
+    {
+      "id": 5,
+      "name": "Velvet Accent Chair",
+      "price": 300,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/velvet_accent_chair.jpg",
+      "description": "Soft velvet fabric with a sturdy metal frame. Deep seat design with cushioned back for extra support. Great for accenting any room with a pop of color.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Accent Chair"
+    },
+    {
+      "id": 6,
+      "name": "Outdoor Patio Chair",
+      "price": 170,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/outdoor_patio_chair.jpg",
+      "description": "Weather-resistant materials perfect for outdoor settings. Sturdy steel frame with a breathable mesh seat. Stackable design for easy storage.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Patio Chair"
+    },
+    {
+      "id": 7,
+      "name": "Swivel Gaming Chair",
+      "price": 420,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/swivel_gaming_chair.jpg",
+      "description": "High backrest with lumbar and head support. 360-degree swivel function for mobility. Great for intense gaming sessions or working at a desk.",
+      "discount": 20,
+      "has_rebate": true,
+      "chair_type": "Gaming Chair"
+    },
+    {
+      "id": 8,
+      "name": "Bean Bag Chair",
+      "price": 160,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/bean_bag_chair.jpg",
+      "description": "Filled with high-quality beads for ultimate relaxation. Soft, durable fabric that conforms to your body. Lightweight and easy to move around.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Bean Bag Chair"
+    },
+    {
+      "id": 9,
+      "name": "Wicker Dining Chair",
+      "price": 230,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/wicker_dining_chair.jpg",
+      "description": "Handwoven wicker with a natural finish. Comfortable cushioned seat with a removable cover. Perfect for indoor and outdoor dining.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Dining Chair"
+    },
+    {
+      "id": 10,
+      "name": "Luxury Leather Office Chair",
+      "price": 490,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/luxury_leather_office_chair.jpg",
+      "description": "Top-grain leather upholstery with a sleek metal base. Adjustable height and reclining function for custom comfort. Perfect for executive offices.",
+      "discount": 28,
+      "has_rebate": true,
+      "chair_type": "Office Chair"
+    },
+    {
+      "id": 11,
+      "name": "Reclining Patio Chair",
+      "price": 200,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/reclining_patio_chair.jpg",
+      "description": "Reclining functionality with weather-resistant fabric. Foldable for easy storage and portability. Great for outdoor lounging by the pool or garden.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Patio Chair"
+    },
+    {
+      "id": 12,
+      "name": "Classic Wooden Dining Chair",
+      "price": 180,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/classic_wooden_dining_chair.jpg",
+      "description": "Sturdy wooden construction with a natural finish. Slatted back design for a traditional look. Adds a rustic touch to your dining room.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Dining Chair"
+    },
+    {
+      "id": 13,
+      "name": "Massage Recliner Chair",
+      "price": 460,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/massage_recliner_chair.jpg",
+      "description": "Comes with massage and heating functions for added comfort. Soft leather upholstery and a reclining feature. Perfect for relaxation after a long day.",
+      "discount": 22,
+      "has_rebate": true,
+      "chair_type": "Recliner Chair"
+    },
+    {
+      "id": 14,
+      "name": "Contemporary Armchair",
+      "price": 320,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/contemporary_armchair.jpg",
+      "description": "Wide armrests and deep seat for added comfort. Upholstered in soft, durable fabric. Great for modern living rooms and lounge areas.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Armchair"
+    },
+    {
+      "id": 15,
+      "name": "Mid-Century Modern Chair",
+      "price": 270,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/mid_century_modern_chair.jpg",
+      "description": "Inspired by mid-century designs with clean lines. Wooden frame with a plush cushioned seat. Adds a retro touch to your living space.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Lounge Chair"
+    },
+    {
+      "id": 16,
+      "name": "Luxury Leather Lounge Chair",
+      "price": 490,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/luxury_leather_lounge_chair.jpg",
+      "description": "Premium leather with a sleek metal frame. Reclining feature for maximum comfort. Perfect for living rooms or home offices.",
+      "discount": 28,
+      "has_rebate": true,
+      "chair_type": "Lounge Chair"
+    },
+    {
+      "id": 17,
+      "name": "Adjustable Bar Stool Chair",
+      "price": 220,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/adjustable_bar_stool_chair.jpg",
+      "description": "Height-adjustable with a 360-degree swivel. Soft cushioned seat with a footrest for comfort. Ideal for kitchen counters and bars.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Bar Stool"
+    },
+    {
+      "id": 18,
+      "name": "Swivel Desk Chair",
+      "price": 340,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/swivel_desk_chair.jpg",
+      "description": "Ergonomic design with adjustable features for back support. Swivel base with smooth-rolling casters. Perfect for home or office use.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Desk Chair"
+    },
+    {
+      "id": 19,
+      "name": "Outdoor Folding Chair",
+      "price": 150,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/outdoor_folding_chair.jpg",
+      "description": "Lightweight, foldable design for easy transport. Durable fabric and steel frame for long-lasting use. Great for outdoor events or camping.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Folding Chair"
+    },
+    {
+      "id": 20,
+      "name": "Executive High Back Chair",
+      "price": 450,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/executive_high_back_chair.jpg",
+      "description": "High backrest with ergonomic support and cushioning. Upholstered in rich leather with adjustable tilt. Ideal for executives and professionals.",
+      "discount": 23,
+      "has_rebate": true,
+      "chair_type": "Office Chair"
+    },
+    {
+      "id": 21,
+      "name": "Swivel Armchair",
+      "price": 310,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/swivel_armchair.jpg",
+      "description": "Plush seating with a 360-degree swivel base. Soft, durable fabric with a contemporary design. Perfect for relaxing and unwinding.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Armchair"
+    },
+    {
+      "id": 22,
+      "name": "Leather Armchair",
+      "price": 460,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/leather_armchair.jpg",
+      "description": "Luxurious leather upholstery with a sleek wooden frame. Comfortable cushioned seat with a high back. Adds a sophisticated touch to your space.",
+      "discount": 25,
+      "has_rebate": true,
+      "chair_type": "Armchair"
+    },
+    {
+      "id": 23,
+      "name": "Fabric Recliner Chair",
+      "price": 430,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/fabric_recliner_chair.jpg",
+      "description": "Soft fabric upholstery with a reclining function. Padded armrests and adjustable footrest for added comfort. Ideal for relaxing in any room.",
+      "discount": 20,
+      "has_rebate": true,
+      "chair_type": "Recliner Chair"
+    },
+    {
+      "id": 24,
+      "name": "Outdoor Adirondack Chair",
+      "price": 280,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/outdoor_adirondack_chair.jpg",
+      "description": "Classic Adirondack design with wide armrests. Weather-resistant materials for outdoor use. Great for lounging on the patio or in the garden.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Outdoor Chair"
+    },
+    {
+      "id": 25,
+      "name": "High Back Rocking Chair",
+      "price": 400,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/high_back_rocking_chair.jpg",
+      "description": "Traditional wooden design with a high backrest. Smooth rocking motion for relaxation. Perfect for living rooms or porches.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Rocking Chair"
+    },
+    {
+      "id": 26,
+      "name": "Modern Dining Chair",
+      "price": 270,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/modern_dining_chair.jpg",
+      "description": "Upholstered seat with a sleek metal frame. Modern design with a comfortable cushioned seat. Ideal for contemporary dining spaces.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Dining Chair"
+    },
+    {
+      "id": 27,
+      "name": "Luxurious Chaise Lounge",
+      "price": 480,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/luxurious_chaise_lounge.jpg",
+      "description": "Plush velvet upholstery with deep cushioning. Elegant design with a curved frame for comfort. Perfect for relaxation in any living space.",
+      "discount": 25,
+      "has_rebate": true,
+      "chair_type": "Chaise Lounge"
+    },
+    {
+      "id": 28,
+      "name": "Mesh Office Chair",
+      "price": 340,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/mesh_office_chair.jpg",
+      "description": "Breathable mesh backrest with ergonomic support. Adjustable armrests and tilt function for comfort. Ideal for home offices and workspaces.",
+      "discount": 0,
+      "has_rebate": false,
+      "chair_type": "Office Chair"
+    },
+    {
+      "id": 29,
+      "name": "Luxury Leather Dining Chair",
+      "price": 450,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/luxury_leather_dining_chair.jpg",
+      "description": "Top-quality leather upholstery with a sleek design. Comfortable padded seat and backrest. Perfect for formal dining areas.",
+      "discount": 22,
+      "has_rebate": true,
+      "chair_type": "Dining Chair"
+    },
+    {
+      "id": 30,
+      "name": "Executive Recliner Chair",
+      "price": 470,
+      "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/executive_recliner_chair.jpg",
+      "description": "Ergonomic recliner with plush leather upholstery. Features a built-in footrest for added comfort. Ideal for executives who need relaxation during breaks.",
+      "discount": 23,
+      "has_rebate": true,
+      "chair_type": "Recliner Chair"
+    },
+    {
+        "id": 31,
+        "name": "Vintage Leather Armchair",
+        "price": 390,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/vintage_leather_armchair.jpg",
+        "description": "Rich, vintage leather upholstery with a classic design. Sturdy wooden legs and cushioned seating. Perfect for adding character to any room.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Armchair"
+      },
+      {
+        "id": 32,
+        "name": "Contemporary Swivel Lounge Chair",
+        "price": 460,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/contemporary_swivel_lounge_chair.jpg",
+        "description": "Elegant design with a smooth 360-degree swivel. Soft fabric upholstery with a deep seat. Ideal for modern living rooms or offices.",
+        "discount": 25,
+        "has_rebate": true,
+        "chair_type": "Lounge Chair"
+      },
+      {
+        "id": 33,
+        "name": "Outdoor Wooden Folding Chair",
+        "price": 160,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/outdoor_wooden_folding_chair.jpg",
+        "description": "Solid wooden frame with a foldable design. Weather-resistant finish for outdoor use. Convenient and portable for picnics and camping.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Folding Chair"
+      },
+      {
+        "id": 34,
+        "name": "Adjustable Reclining Gaming Chair",
+        "price": 440,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/adjustable_reclining_gaming_chair.jpg",
+        "description": "High-back ergonomic design with adjustable reclining. Lumbar support cushion for long gaming sessions. Suitable for gaming setups or workstations.",
+        "discount": 22,
+        "has_rebate": true,
+        "chair_type": "Gaming Chair"
+      },
+      {
+        "id": 35,
+        "name": "Fabric Chaise Lounge",
+        "price": 370,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/fabric_chaise_lounge.jpg",
+        "description": "Soft fabric upholstery with an extended seat. Elegant curved design for relaxation and style. Ideal for bedrooms or living rooms.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Chaise Lounge"
+      },
+      {
+        "id": 36,
+        "name": "Mid-Century Dining Chair",
+        "price": 250,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/mid_century_dining_chair.jpg",
+        "description": "Inspired by mid-century design with clean lines. Comfortable cushioned seat and wooden frame. Adds a retro vibe to your dining area.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Dining Chair"
+      },
+      {
+        "id": 37,
+        "name": "Swivel Recliner Chair",
+        "price": 480,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/swivel_recliner_chair.jpg",
+        "description": "Plush seating with a 360-degree swivel and reclining function. Soft fabric upholstery for maximum comfort. Ideal for living rooms and home offices.",
+        "discount": 25,
+        "has_rebate": true,
+        "chair_type": "Recliner Chair"
+      },
+      {
+        "id": 38,
+        "name": "Leather Accent Chair",
+        "price": 390,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/leather_accent_chair.jpg",
+        "description": "Sleek leather upholstery with a modern design. Cushioned seating with a sturdy metal frame. Great for adding a touch of sophistication to any room.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Accent Chair"
+      },
+      {
+        "id": 39,
+        "name": "Contemporary Outdoor Lounge Chair",
+        "price": 310,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/contemporary_outdoor_lounge_chair.jpg",
+        "description": "Weather-resistant material with a sleek design. Comfortable cushioning for outdoor relaxation. Perfect for patios or poolside lounging.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Outdoor Chair"
+      },
+      {
+        "id": 40,
+        "name": "Luxury Reclining Office Chair",
+        "price": 470,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/luxury_reclining_office_chair.jpg",
+        "description": "Ergonomic office chair with a reclining feature. Leather upholstery with lumbar support. Ideal for executives who value comfort and style.",
+        "discount": 24,
+        "has_rebate": true,
+        "chair_type": "Office Chair"
+      },
+      {
+        "id": 41,
+        "name": "Armless Accent Chair",
+        "price": 290,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/armless_accent_chair.jpg",
+        "description": "Modern design with an armless structure for a sleek look. Soft fabric upholstery and a comfortable seat. Ideal for living rooms and bedrooms.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Accent Chair"
+      },
+      {
+        "id": 42,
+        "name": "Wooden Deck Chair",
+        "price": 210,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/wooden_deck_chair.jpg",
+        "description": "Classic wooden frame with a foldable design. Weather-resistant for long-lasting outdoor use. Ideal for relaxing on the deck or patio.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Deck Chair"
+      },
+      {
+        "id": 43,
+        "name": "High Back Executive Office Chair",
+        "price": 490,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/high_back_executive_office_chair.jpg",
+        "description": "High backrest with ergonomic lumbar support. Premium leather upholstery for professional style. Adjustable height and tilt for customized comfort.",
+        "discount": 27,
+        "has_rebate": true,
+        "chair_type": "Office Chair"
+      },
+      {
+        "id": 44,
+        "name": "Wooden Adirondack Chair",
+        "price": 190,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/wooden_adirondack_chair.jpg",
+        "description": "Classic Adirondack design with wide armrests. Made from durable, weather-resistant wood. Perfect for lounging outdoors in comfort.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Outdoor Chair"
+      },
+      {
+        "id": 45,
+        "name": "Minimalist Dining Chair",
+        "price": 270,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/minimalist_dining_chair.jpg",
+        "description": "Clean lines and a minimalist design for modern spaces. Wooden frame with a cushioned seat for comfort. Ideal for contemporary dining rooms.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Dining Chair"
+      },
+      {
+        "id": 46,
+        "name": "Ergonomic Recliner Office Chair",
+        "price": 440,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/ergonomic_recliner_office_chair.jpg",
+        "description": "Ergonomic design with reclining features and lumbar support. Cushioned leather upholstery for maximum comfort. Great for extended working hours.",
+        "discount": 22,
+        "has_rebate": true,
+        "chair_type": "Office Chair"
+      },
+      {
+        "id": 47,
+        "name": "Classic Wingback Chair",
+        "price": 350,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/classic_wingback_chair.jpg",
+        "description": "Traditional wingback design with plush cushioning. Upholstered in durable fabric for long-lasting comfort. Perfect for adding a classic touch to your living space.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Wingback Chair"
+      },
+      {
+        "id": 48,
+        "name": "High Back Outdoor Lounge Chair",
+        "price": 280,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/high_back_outdoor_lounge_chair.jpg",
+        "description": "Weather-resistant materials with a high backrest. Comfortable seating for outdoor relaxation. Great for poolside or patio lounging.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Outdoor Chair"
+      },
+      {
+        "id": 49,
+        "name": "Luxury Leather Gaming Chair",
+        "price": 450,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/luxury_leather_gaming_chair.jpg",
+        "description": "High-end leather upholstery with lumbar support. Reclining function and adjustable armrests for custom comfort. Ideal for gaming and work.",
+        "discount": 25,
+        "has_rebate": true,
+        "chair_type": "Gaming Chair"
+      },
+      {
+        "id": 50,
+        "name": "Elegant Fabric Armchair",
+        "price": 360,
+        "image": "https://raw.githubusercontent.com/ramyav703/EWA_Project/main/images/elegant_fabric_armchair.jpg",
+        "description": "Soft fabric upholstery with a sturdy wooden frame. Elegant design with comfortable cushioning. Great for adding a touch of style to any room.",
+        "discount": 0,
+        "has_rebate": false,
+        "chair_type": "Armchair"
+      }
+  ]
+  
