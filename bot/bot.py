@@ -40,11 +40,9 @@ def route_question(state):
     The recommendation_agent can answer questions about chairs, types of chairs.
     Use the recommendation_agent for questions on chair topics.
     
-    The order_status_agent can answer questions about order status.
-    Use the order_status_agent for questions on order status topics
-
-    The fraud_detection_agent can answer questions about if the package/shipment is damaged or not.
-    Use the fraud_detection_agent for questions on topics related to if the package/shipment is damaged or not.
+    The order_status_agent can answer questions about order status 
+    The order_status_agent can also be used by the user to provide an image of the delivered shipment/package to check for damages.
+    Use the order_status_agent for questions on order status topics.
     """
 
     route_prompt = ChatPromptTemplate.from_messages(
